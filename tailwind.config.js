@@ -7,7 +7,7 @@ module.exports = {
     container: {
       padding: {
         DEFAULT: '1rem',
-        lg: '30px',
+        lg: '1rem',
       },
     },
     screens: {
@@ -20,9 +20,10 @@ module.exports = {
       colors: {
         dark: '#292830',
         light: '#BDBDBD',
-        accent: '#FF7235',
+        accent: '#3546AB',
         accentHover: '#e05216',
         grey: '#F5F5F5',
+        secondary:'#F0582E'
       },
       backgroundImage: {
         overview: "url('/src/assets/img/overview/bg.svg')",

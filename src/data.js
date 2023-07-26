@@ -1,15 +1,15 @@
 // import images
-import LogoImg from '../src/assets/img/header/logo.svg';
-import HeroImg from '../src/assets/img/hero/image.svg';
+import LogoImg from '../src/assets/img/header/smart_pocket_logo.svg';
+import HeroImg from '../src/assets/img/hero/hero.svg';
 import OverviewProductImg from '../src/assets/img/overview/product.svg';
 import FacebookImg from '../src/assets/img/overview/brands/facebook.svg';
 import GoogleImg from '../src/assets/img/overview/brands/google.svg';
 import CocaColaImg from '../src/assets/img/overview/brands/coca-cola.svg';
 import LinkedInImg from '../src/assets/img/overview/brands/linkedin.svg';
 import SamsungImg from '../src/assets/img/overview/brands/samsung.svg';
-import Feature1Img from '../src/assets/img/features/feature1-img.svg';
-import Feature2Img from '../src/assets/img/features/feature2-img.svg';
-import Feature3Img from '../src/assets/img/features/feature3-img.svg';
+import Feature1Img from '../src/assets/img/features/feature-1.svg';
+import Feature2Img from '../src/assets/img/features/feature-2.svg';
+import Feature3Img from '../src/assets/img/features/feature-3.svg';
 import ArrowRightImg from '../src/assets/img/features/arrow-right.svg';
 import CardIconImg1 from '../src/assets/img/product/cards/icon1.svg';
 import CardIconImg2 from '../src/assets/img/product/cards/icon2.svg';
@@ -22,8 +22,8 @@ import AvatarImg2 from '../src/assets/img/testimonial/avatar2.png';
 import AvatarImg3 from '../src/assets/img/testimonial/avatar3.png';
 import AvatarImg4 from '../src/assets/img/testimonial/avatar4.png';
 import AvatarImg5 from '../src/assets/img/testimonial/avatar5.png';
-import CtaImg1 from '../src/assets/img/cta/image1.svg';
-import CtaImg2 from '../src/assets/img/cta/image2.svg';
+import CtaImg1 from '../src/assets/img/cta/image-1.svg';
+import CtaImg2 from '../src/assets/img/cta/image-2.svg';
 import FacebookIcon from '../src/assets/img/copyright/facebook.svg';
 import TwitterIcon from '../src/assets/img/copyright/twitter.svg';
 import LinkedinIcon from '../src/assets/img/copyright/linkedin.svg';
@@ -41,7 +41,7 @@ export const nav = [
 ];
 
 export const hero = {
-  title: 'Track your Expenses to Save Money',
+  title: 'Track your expenditure to save Money.',
   subtitle: 'Helps you to organize your income and expenses',
   btnText: 'Try free demo',
   compText: '— Web, iOS and Android',
@@ -265,7 +265,7 @@ export const copyright = {
     name: 'Contact us',
     href: '/',
   },
-  copyText: 'Copyright @ 2022 xpence',
+  copyText: 'Copyright @ 2022 smart pocket',
   social: [
     { icon: FacebookIcon, href: '/' },
     { icon: TwitterIcon, href: '/' },
